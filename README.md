@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: (https://medibridge.up.railway.app)
+**URL**: (https://medi-bridge.up.railway.app)
 
 ## How can I edit this code?
 
